@@ -1,16 +1,27 @@
 ## Hi there 👋
 
-<!--
-**BLMgithub/BLMgithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I work on **analytics that support real decisions**, not just insight generation. <br>
+My focus is on validating whether data signals are **safe to act on** before time, budget, or operational capacity is committed.
 
-Here are some ideas to get you started:
+## What I Do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I work across **problem framing**, **exploratory analysis**, **prioritization**, and **decision review**.
+
+Most of my work focuses on:
+
+- Validating whether signals are **safe to act on**
+- Making assumptions and constraints explicit
+- Narrowing options over time, not expanding them
+
+I care more about **clarity than complexity**, and about knowing what not to do.
+
+## What You'll Find Here
+
+- Decision oriented analyses
+- Exploratory work used to surface structure early
+- Reusable analysis scaffolding designed to be challenged and reused
+- Artifacts that make assumptions, constraints, and trade offs explicit
+
+---
+
+> **Connect with Me:** [`Email`](mailto:bryanmelvida@gmail.com) · [`LinkedIn`](https://www.linkedin.com/in/bryan-melvida) · [`Website`](https://bryan-melvida.notion.site/Analytics-Portfolio-2e8b722615b48071b3bce5937ae07ec5)
