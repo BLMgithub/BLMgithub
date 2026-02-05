@@ -1,4 +1,4 @@
-## Hi there 👋
+## Analytical Focus
 
 I work on **analytics that support real decisions**, not just insight generation. <br>
 My focus is on validating whether data signals are **safe to act on** before time, budget, or operational capacity is committed.
