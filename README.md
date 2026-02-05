@@ -24,4 +24,4 @@ I care more about **clarity than complexity**, and about knowing what not to do.
 
 <br>
 
-> **Connect with Me:** [`Email`](mailto:bryanmelvida@gmail.com) · [`LinkedIn`](https://www.linkedin.com/in/bryan-melvida) · [`Website`](https://bryan-melvida.notion.site/Analytics-Portfolio-2e8b722615b48071b3bce5937ae07ec5)
+> **Connect with Me:** [**`Email↗`**](mailto:bryanmelvida@gmail.com) · [**`LinkedIn↗`**](https://www.linkedin.com/in/bryan-melvida) · [**`Portfolio↗`**](https://bryan-melvida.notion.site/Analytics-Portfolio-2e8b722615b48071b3bce5937ae07ec5)
