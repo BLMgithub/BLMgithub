@@ -22,6 +22,6 @@ I care more about **clarity than complexity**, and about knowing what not to do.
 - Reusable analysis scaffolding designed to be challenged and reused
 - Artifacts that make assumptions, constraints, and trade offs explicit
 
----
+<br>
 
 > **Connect with Me:** [`Email`](mailto:bryanmelvida@gmail.com) · [`LinkedIn`](https://www.linkedin.com/in/bryan-melvida) · [`Website`](https://bryan-melvida.notion.site/Analytics-Portfolio-2e8b722615b48071b3bce5937ae07ec5)
